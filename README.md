@@ -1,4 +1,5 @@
 # Hacktoberfest2018
 This is a repo for completing Hacktoberfest 2018.
 
-Kristopher Crump
+Name: Kristopher Crump
+Country: United States
