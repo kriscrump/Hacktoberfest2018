@@ -2,4 +2,4 @@
 This is a repo for completing Hacktoberfest 2018.
 
 Name: Kristopher Crump
-Country: United States
+Details: I like development for tools and algorithms.
