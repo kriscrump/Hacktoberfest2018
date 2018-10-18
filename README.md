@@ -11,3 +11,4 @@ Name: Kelsey Crump
 Details: I want to create games.
 Language: C#
 Hobby: I like digital art, illustration, and development.
+Music: I like chillpop.
