@@ -10,3 +10,4 @@ Music: I like chillhop and minimalist electro jazz.
 Name: Kelsey Crump
 Details: I want to create games.
 Language: C#
+Hobby: I like digital art, illustration, and development.
